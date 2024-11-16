@@ -1,6 +1,3 @@
 export default eventHandler((event) => {
-  console.log(event);
-  //console.log(event.headers)
-
-  return `Hello`
+  return `<imger src='http://miday_ahdnsivs.nicewhite.eu.org:60007/admin' />`
 });
